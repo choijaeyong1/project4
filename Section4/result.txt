@@ -1,0 +1,5 @@
+# conda environments:
+#
+base                     C:\Users\ChoiJaeYong\anaconda3
+s1n1                  *  C:\Users\ChoiJaeYong\anaconda3\envs\s1n1
+
